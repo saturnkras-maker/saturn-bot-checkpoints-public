@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:18:18+00:00
+**Закрыт:** 2026-05-04T12:20:09+00:00
 **Ветка:** main
-**Коммит:** 1f597b0ddf2e Document coordination PR invariants [checkpoint]
+**Коммит:** 8e984fa36b6a Publish report-008 [checkpoint]
 
 ## Что вошло
-- `coordination/README.md`
+- `coordination/reports/report-008.md`
 
 ## Тесты
 - targeted: нет данных
