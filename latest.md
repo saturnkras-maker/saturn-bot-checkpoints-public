@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:26:37+00:00
+**Закрыт:** 2026-05-04T07:27:29+00:00
 **Ветка:** main
-**Коммит:** 5fcdcbdbe041 Publish tz-004 invariant refine v2 [checkpoint]
+**Коммит:** dd80bcc7dd51 Refine grep invariant by content nature [checkpoint]
 
 ## Что вошло
-- `coordination/tz/tz-004-invariant-refine-v2.md`
+- `coordination/README.md`
 
 ## Тесты
 - targeted: нет данных

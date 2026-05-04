@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T07:26:37+00:00",
+  "closed_at": "2026-05-04T07:27:29+00:00",
   "branch": "main",
-  "commit_sha": "5fcdcbdbe041",
-  "commit_message": "Publish tz-004 invariant refine v2 [checkpoint]",
+  "commit_sha": "dd80bcc7dd51",
+  "commit_message": "Refine grep invariant by content nature [checkpoint]",
   "artifacts": [
-    "coordination/tz/tz-004-invariant-refine-v2.md"
+    "coordination/README.md"
   ],
   "tests": {
     "targeted": {
