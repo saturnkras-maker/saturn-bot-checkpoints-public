@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:16:37+00:00
+**Закрыт:** 2026-05-04T12:18:18+00:00
 **Ветка:** main
-**Коммит:** b2586d0f7f15 Publish tz-008 coordination hardening [checkpoint]
+**Коммит:** 1f597b0ddf2e Document coordination PR invariants [checkpoint]
 
 ## Что вошло
-- `coordination/tz/tz-008-coordination-hardening.md`
+- `coordination/README.md`
 
 ## Тесты
 - targeted: нет данных
