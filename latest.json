@@ -1,10 +1,12 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T11:33:42+00:00",
+  "closed_at": "2026-05-04T11:39:44+00:00",
   "branch": "main",
-  "commit_sha": "b7bed391a1d6",
-  "commit_message": "Republish tz-007 pilot readiness [checkpoint]",
-  "artifacts": [],
+  "commit_sha": "093076c2ae3b",
+  "commit_message": "Pilot readiness audit [checkpoint]",
+  "artifacts": [
+    "coordination/audits/pilot-readiness-audit-2026-05-04.md"
+  ],
   "tests": {
     "targeted": {
       "passed": null,

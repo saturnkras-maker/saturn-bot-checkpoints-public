@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T11:33:42+00:00
+**Закрыт:** 2026-05-04T11:39:44+00:00
 **Ветка:** main
-**Коммит:** b7bed391a1d6 Republish tz-007 pilot readiness [checkpoint]
+**Коммит:** 093076c2ae3b Pilot readiness audit [checkpoint]
 
 ## Что вошло
-- изменений в последнем diff не найдено
+- `coordination/audits/pilot-readiness-audit-2026-05-04.md`
 
 ## Тесты
 - targeted: нет данных
