@@ -1,11 +1,13 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T07:20:08+00:00",
+  "closed_at": "2026-05-04T07:21:37+00:00",
   "branch": "main",
-  "commit_sha": "a6ea2afa5fc6",
-  "commit_message": "Add tz-003 cleanup and invariant refine [checkpoint]",
+  "commit_sha": "c5d526c19eaf",
+  "commit_message": "Refine checkpoint-contour grep invariant and cleanup tz-002 wording [checkpoint]",
   "artifacts": [
-    "coordination/tz/tz-003-cleanup-and-invariant-refine.md"
+    "coordination/README.md",
+    "coordination/reports/report-002.md",
+    "coordination/tz/tz-002-anonymization-pairs-batch-1.md"
   ],
   "tests": {
     "targeted": {

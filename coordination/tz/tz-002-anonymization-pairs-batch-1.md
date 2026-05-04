@@ -86,7 +86,7 @@ PR-флоу:
 - операции с secrets, deploy keys, branch protection
 - затрагивание feat/p3-m1-discovery-and-v1-scaffold или его worktree
 - потеря archive/readme-stub (44a5c8c)
-- появление Telegram где-либо в контуре checkpoints
+- появление мессенджер-интеграций где-либо в контуре checkpoints
 - skipped у checkpoint-publisher.yml после штатного squash merge
 - более 2 циклов правок gates или 2 fix-коммитов подряд
 - реальные ФИО/email/телефоны/домены в raw-файлах (допускаются только синтетические)
@@ -99,4 +99,4 @@ PR-флоу:
 - Реальные персональные данные в raw-файлах. Только синтетические маркеры.
 - Переиспользование placeholder'ов вне whitelist (любые новые типы плейсхолдеров — красный gate).
 - Действия в bitrix-bot-mvp и write в public repo напрямую.
-- Telegram в любом виде.
+- мессенджер-уведомления в любом виде.

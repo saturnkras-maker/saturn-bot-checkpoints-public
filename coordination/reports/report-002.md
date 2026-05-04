@@ -56,3 +56,7 @@ created_at: 2026-05-04T06:52:00Z
 ## Next
 
 Ready to start `anonymization-pairs-batch-2` on command.
+
+## cleanup note (tz-003)
+
+В tz-002 заменены две строки с прямым упоминанием Telegram на обобщённую формулировку про мессенджер-интеграции. Batch-1 и PR #12 не затронуты. См. tz-003 и report-003.
