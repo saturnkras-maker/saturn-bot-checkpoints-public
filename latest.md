@@ -1,8 +1,8 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:17:26+00:00
-**Ветка:** feat/tz-009-block3-000039
-**Коммит:** 07e0cc5928ab feat(pilot): add block3 scheduler privacy sender [checkpoint]
+**Закрыт:** 2026-05-04T17:17:30+00:00
+**Ветка:** infra/report-008-push-191940
+**Коммит:** 21702f3b06d3 Implement tz-009 block3 scheduler privacy sender [checkpoint]
 
 ## Что вошло
 - `artifacts/iter2-block3/e2e_tests.md`
