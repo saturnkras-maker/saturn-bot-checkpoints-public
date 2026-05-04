@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:36:09+00:00
+**Закрыт:** 2026-05-04T07:50:08+00:00
 **Ветка:** main
-**Коммит:** 454a011e3425 Publish report-004 [checkpoint]
+**Коммит:** d044a4d73bfa Publish tz-005 anonymization pairs batch 2 [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-004.md`
+- `coordination/tz/tz-005-anonymization-pairs-batch-2.md`
 
 ## Тесты
 - targeted: нет данных

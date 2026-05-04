@@ -239,6 +239,16 @@
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T07:50:08+00:00",
+      "branch": "main",
+      "commit_sha": "d044a4d73bfa",
+      "commit_message": "Publish tz-005 anonymization pairs batch 2 [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
     }
   ]
 }
