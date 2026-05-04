@@ -1,19 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:17:30+00:00
-**Ветка:** infra/report-008-push-191940
-**Коммит:** 21702f3b06d3 Implement tz-009 block3 scheduler privacy sender [checkpoint]
+**Закрыт:** 2026-05-04T17:18:00+00:00
+**Ветка:** infra/report-009-001747
+**Коммит:** 5085efc5dcc8 coord(report): publish report-009 block3 gate [checkpoint]
 
 ## Что вошло
-- `artifacts/iter2-block3/e2e_tests.md`
-- `artifacts/iter2-block3/prod_smoke_result.md`
-- `config/pilot_recipients.yaml`
-- `migrations/versions/0024_pilot_delivery_outbox.py`
-- `src/db/p2_models.py`
-- `src/services/pilot_delivery.py`
-- `src/services/pilot_scheduler.py`
-- `tests/services/test_pilot_delivery.py`
-- `tests/services/test_pilot_scheduler.py`
+- `coordination/reports/report-009.md`
 
 ## Тесты
 - targeted: нет данных
