@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:30:13+00:00
+**Закрыт:** 2026-05-04T12:33:33+00:00
 **Ветка:** main
-**Коммит:** f18c26b0055d Second front coordination hardening audit [checkpoint]
+**Коммит:** 735af12db758 Publish report-009 [checkpoint]
 
 ## Что вошло
-- `coordination/audits/second-front-coordination-hardening-2026-05-04.md`
+- `coordination/reports/report-009.md`
 
 ## Тесты
 - targeted: нет данных

@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T12:30:13+00:00",
+  "closed_at": "2026-05-04T12:33:33+00:00",
   "branch": "main",
-  "commit_sha": "f18c26b0055d",
-  "commit_message": "Second front coordination hardening audit [checkpoint]",
+  "commit_sha": "735af12db758",
+  "commit_message": "Publish report-009 [checkpoint]",
   "artifacts": [
-    "coordination/audits/second-front-coordination-hardening-2026-05-04.md"
+    "coordination/reports/report-009.md"
   ],
   "tests": {
     "targeted": {
