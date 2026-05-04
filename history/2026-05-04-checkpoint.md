@@ -1,22 +1,16 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:11:52+00:00
+**Закрыт:** 2026-05-04T06:14:53+00:00
 **Ветка:** main
-**Коммит:** d5e27b7a51ab Add fallback content prompt layer [checkpoint]
+**Коммит:** aabd0b72d336 Introduce coordination channel for tz and reports [checkpoint]
 
 ## Что вошло
-- `content_samples/fallback/detector_error_07.md`
-- `content_samples/fallback/detector_error_08.md`
-- `content_samples/fallback/input_anomaly_09.md`
-- `content_samples/fallback/input_anomaly_10.md`
-- `content_samples/fallback/no_data_01.md`
-- `content_samples/fallback/no_data_02.md`
-- `content_samples/fallback/no_data_03.md`
-- `content_samples/fallback/partial_signals_04.md`
-- `content_samples/fallback/partial_signals_05.md`
-- `content_samples/fallback/partial_signals_06.md`
-- `prompts/fallback.md`
-- `tests/anonymization/length_report.txt`
+- `coordination/README.md`
+- `coordination/reports/README.md`
+- `coordination/reports/report-000-contract.md`
+- `coordination/tz/README.md`
+- `coordination/tz/tz-000-contract.md`
+- `scripts/generate_checkpoint.py`
 
 ## Тесты
 - targeted: нет данных
