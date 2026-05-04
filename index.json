@@ -9,6 +9,26 @@
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-synthetic-infra-check.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T02:45:12+00:00",
+      "branch": "infra/github-checkpoints",
+      "commit_sha": "a59b5e6831f4",
+      "commit_message": "test: trigger checkpoint publisher [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T02:46:37+00:00",
+      "branch": "infra/github-checkpoints",
+      "commit_sha": "9fd05196c381",
+      "commit_message": "test: verify public checkpoint publish [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
     }
   ]
 }
