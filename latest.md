@@ -1,14 +1,24 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T04:00:13+00:00
+**Закрыт:** 2026-05-04T04:47:22+00:00
 **Ветка:** main
-**Коммит:** 1902eac9ce68 checkpoint: refresh public latest after infra merge [checkpoint]
+**Коммит:** ed6ab1e53c54 feat(content): add morning prompt layer [checkpoint]
 
 ## Что вошло
-- `.checkpoints/history/2026-05-04-checkpoint.md`
-- `.checkpoints/index.json`
-- `.checkpoints/latest.json`
-- `.checkpoints/latest.md`
+- `content_samples/morning/green_01.md`
+- `content_samples/morning/green_02.md`
+- `content_samples/morning/green_03.md`
+- `content_samples/morning/red_09.md`
+- `content_samples/morning/red_10.md`
+- `content_samples/morning/white_04.md`
+- `content_samples/morning/white_05.md`
+- `content_samples/morning/white_06.md`
+- `content_samples/morning/yellow_07.md`
+- `content_samples/morning/yellow_08.md`
+- `prompts/_shared/context_schema.md`
+- `prompts/morning.md`
+- `tests/anonymization/length_report.txt`
+- `tests/anonymization/stopwords.txt`
 
 ## Тесты
 - targeted: нет данных
