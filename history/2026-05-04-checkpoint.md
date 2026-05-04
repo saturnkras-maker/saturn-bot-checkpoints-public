@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T11:39:44+00:00
+**Закрыт:** 2026-05-04T11:42:15+00:00
 **Ветка:** main
-**Коммит:** 093076c2ae3b Pilot readiness audit [checkpoint]
+**Коммит:** 58c8e124fa45 Publish report-007 [checkpoint]
 
 ## Что вошло
-- `coordination/audits/pilot-readiness-audit-2026-05-04.md`
+- `coordination/reports/report-007.md`
 
 ## Тесты
 - targeted: нет данных

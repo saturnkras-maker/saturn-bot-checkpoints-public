@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T11:39:44+00:00",
+  "closed_at": "2026-05-04T11:42:15+00:00",
   "branch": "main",
-  "commit_sha": "093076c2ae3b",
-  "commit_message": "Pilot readiness audit [checkpoint]",
+  "commit_sha": "58c8e124fa45",
+  "commit_message": "Publish report-007 [checkpoint]",
   "artifacts": [
-    "coordination/audits/pilot-readiness-audit-2026-05-04.md"
+    "coordination/reports/report-007.md"
   ],
   "tests": {
     "targeted": {
