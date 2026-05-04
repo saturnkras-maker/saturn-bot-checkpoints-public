@@ -1,11 +1,22 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T06:45:45+00:00",
+  "closed_at": "2026-05-04T06:47:15+00:00",
   "branch": "main",
-  "commit_sha": "0123b175df2d",
-  "commit_message": "Add tz-002 anonymization pairs batch 1 [checkpoint]",
+  "commit_sha": "d7eb7c879f10",
+  "commit_message": "Add anonymization pairs batch 1 [checkpoint]",
   "artifacts": [
-    "coordination/tz/tz-002-anonymization-pairs-batch-1.md"
+    "tests/anonymization/length_report.txt",
+    "tests/anonymization/pairs/README.md",
+    "tests/anonymization/pairs/batch-1/pair-01-anonymized.md",
+    "tests/anonymization/pairs/batch-1/pair-01-raw.md",
+    "tests/anonymization/pairs/batch-1/pair-02-anonymized.md",
+    "tests/anonymization/pairs/batch-1/pair-02-raw.md",
+    "tests/anonymization/pairs/batch-1/pair-03-anonymized.md",
+    "tests/anonymization/pairs/batch-1/pair-03-raw.md",
+    "tests/anonymization/pairs/batch-1/pair-04-anonymized.md",
+    "tests/anonymization/pairs/batch-1/pair-04-raw.md",
+    "tests/anonymization/pairs/batch-1/pair-05-anonymized.md",
+    "tests/anonymization/pairs/batch-1/pair-05-raw.md"
   ],
   "tests": {
     "targeted": {
