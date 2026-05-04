@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:27:29+00:00
+**Закрыт:** 2026-05-04T07:29:06+00:00
 **Ветка:** main
-**Коммит:** dd80bcc7dd51 Refine grep invariant by content nature [checkpoint]
+**Коммит:** 9c0d824e8eb9 Backfill report-003 after tz-003 [checkpoint]
 
 ## Что вошло
-- `coordination/README.md`
+- `coordination/reports/report-003.md`
 
 ## Тесты
 - targeted: нет данных
