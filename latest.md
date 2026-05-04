@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T11:42:15+00:00
+**Закрыт:** 2026-05-04T12:16:37+00:00
 **Ветка:** main
-**Коммит:** 58c8e124fa45 Publish report-007 [checkpoint]
+**Коммит:** b2586d0f7f15 Publish tz-008 coordination hardening [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-007.md`
+- `coordination/tz/tz-008-coordination-hardening.md`
 
 ## Тесты
 - targeted: нет данных

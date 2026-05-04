@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T11:42:15+00:00",
+  "closed_at": "2026-05-04T12:16:37+00:00",
   "branch": "main",
-  "commit_sha": "58c8e124fa45",
-  "commit_message": "Publish report-007 [checkpoint]",
+  "commit_sha": "b2586d0f7f15",
+  "commit_message": "Publish tz-008 coordination hardening [checkpoint]",
   "artifacts": [
-    "coordination/reports/report-007.md"
+    "coordination/tz/tz-008-coordination-hardening.md"
   ],
   "tests": {
     "targeted": {
