@@ -1,11 +1,22 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T05:57:10+00:00",
+  "closed_at": "2026-05-04T06:00:44+00:00",
   "branch": "main",
-  "commit_sha": "92a87d211539",
-  "commit_message": "Remove Telegram notification from checkpoint publisher [checkpoint]",
+  "commit_sha": "cd05d0046c16",
+  "commit_message": "Add quarterly content prompt layer [checkpoint]",
   "artifacts": [
-    ".github/workflows/checkpoint-publisher.yml"
+    "content_samples/quarterly/green_01.md",
+    "content_samples/quarterly/green_02.md",
+    "content_samples/quarterly/green_03.md",
+    "content_samples/quarterly/red_09.md",
+    "content_samples/quarterly/red_10.md",
+    "content_samples/quarterly/white_04.md",
+    "content_samples/quarterly/white_05.md",
+    "content_samples/quarterly/white_06.md",
+    "content_samples/quarterly/yellow_07.md",
+    "content_samples/quarterly/yellow_08.md",
+    "prompts/quarterly.md",
+    "tests/anonymization/length_report.txt"
   ],
   "tests": {
     "targeted": {

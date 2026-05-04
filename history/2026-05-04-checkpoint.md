@@ -1,11 +1,22 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T05:57:10+00:00
+**Закрыт:** 2026-05-04T06:00:44+00:00
 **Ветка:** main
-**Коммит:** 92a87d211539 Remove Telegram notification from checkpoint publisher [checkpoint]
+**Коммит:** cd05d0046c16 Add quarterly content prompt layer [checkpoint]
 
 ## Что вошло
-- `.github/workflows/checkpoint-publisher.yml`
+- `content_samples/quarterly/green_01.md`
+- `content_samples/quarterly/green_02.md`
+- `content_samples/quarterly/green_03.md`
+- `content_samples/quarterly/red_09.md`
+- `content_samples/quarterly/red_10.md`
+- `content_samples/quarterly/white_04.md`
+- `content_samples/quarterly/white_05.md`
+- `content_samples/quarterly/white_06.md`
+- `content_samples/quarterly/yellow_07.md`
+- `content_samples/quarterly/yellow_08.md`
+- `prompts/quarterly.md`
+- `tests/anonymization/length_report.txt`
 
 ## Тесты
 - targeted: нет данных
