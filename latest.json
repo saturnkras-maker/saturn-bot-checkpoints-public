@@ -1,16 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T12:28:30+00:00",
+  "closed_at": "2026-05-04T12:30:13+00:00",
   "branch": "main",
-  "commit_sha": "6bbf1cdaff4e",
-  "commit_message": "Expand director pilot samples [checkpoint]",
+  "commit_sha": "f18c26b0055d",
+  "commit_message": "Second front coordination hardening audit [checkpoint]",
   "artifacts": [
-    "content_samples/pilot/evening_director_low_activity.md",
-    "content_samples/pilot/evening_director_push_overuse.md",
-    "content_samples/pilot/friday_director_stagnation.md",
-    "content_samples/pilot/morning_director_absence_return.md",
-    "content_samples/pilot/morning_director_overload.md",
-    "tests/anonymization/length_report.txt"
+    "coordination/audits/second-front-coordination-hardening-2026-05-04.md"
   ],
   "tests": {
     "targeted": {

@@ -1,16 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:28:30+00:00
+**Закрыт:** 2026-05-04T12:30:13+00:00
 **Ветка:** main
-**Коммит:** 6bbf1cdaff4e Expand director pilot samples [checkpoint]
+**Коммит:** f18c26b0055d Second front coordination hardening audit [checkpoint]
 
 ## Что вошло
-- `content_samples/pilot/evening_director_low_activity.md`
-- `content_samples/pilot/evening_director_push_overuse.md`
-- `content_samples/pilot/friday_director_stagnation.md`
-- `content_samples/pilot/morning_director_absence_return.md`
-- `content_samples/pilot/morning_director_overload.md`
-- `tests/anonymization/length_report.txt`
+- `coordination/audits/second-front-coordination-hardening-2026-05-04.md`
 
 ## Тесты
 - targeted: нет данных
