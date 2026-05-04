@@ -1,21 +1,21 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:00:44+00:00
+**Закрыт:** 2026-05-04T06:11:52+00:00
 **Ветка:** main
-**Коммит:** cd05d0046c16 Add quarterly content prompt layer [checkpoint]
+**Коммит:** d5e27b7a51ab Add fallback content prompt layer [checkpoint]
 
 ## Что вошло
-- `content_samples/quarterly/green_01.md`
-- `content_samples/quarterly/green_02.md`
-- `content_samples/quarterly/green_03.md`
-- `content_samples/quarterly/red_09.md`
-- `content_samples/quarterly/red_10.md`
-- `content_samples/quarterly/white_04.md`
-- `content_samples/quarterly/white_05.md`
-- `content_samples/quarterly/white_06.md`
-- `content_samples/quarterly/yellow_07.md`
-- `content_samples/quarterly/yellow_08.md`
-- `prompts/quarterly.md`
+- `content_samples/fallback/detector_error_07.md`
+- `content_samples/fallback/detector_error_08.md`
+- `content_samples/fallback/input_anomaly_09.md`
+- `content_samples/fallback/input_anomaly_10.md`
+- `content_samples/fallback/no_data_01.md`
+- `content_samples/fallback/no_data_02.md`
+- `content_samples/fallback/no_data_03.md`
+- `content_samples/fallback/partial_signals_04.md`
+- `content_samples/fallback/partial_signals_05.md`
+- `content_samples/fallback/partial_signals_06.md`
+- `prompts/fallback.md`
 - `tests/anonymization/length_report.txt`
 
 ## Тесты
