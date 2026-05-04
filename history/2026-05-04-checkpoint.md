@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T09:22:24+00:00
+**Закрыт:** 2026-05-04T10:45:44+00:00
 **Ветка:** main
-**Коммит:** 950cd246963e Publish report-006 [checkpoint]
+**Коммит:** c2a0a69fae21 Publish tz-007 pilot readiness phase [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-006.md`
+- `coordination/tz/tz-007-pilot-readiness-content-layer.md`
 
 ## Тесты
 - targeted: нет данных
