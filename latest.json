@@ -1,16 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T06:14:53+00:00",
+  "closed_at": "2026-05-04T06:18:02+00:00",
   "branch": "main",
-  "commit_sha": "aabd0b72d336",
-  "commit_message": "Introduce coordination channel for tz and reports [checkpoint]",
+  "commit_sha": "fbf3c6fca483",
+  "commit_message": "Add bootstrap coordination report 001 [checkpoint]",
   "artifacts": [
-    "coordination/README.md",
-    "coordination/reports/README.md",
-    "coordination/reports/report-000-contract.md",
-    "coordination/tz/README.md",
-    "coordination/tz/tz-000-contract.md",
-    "scripts/generate_checkpoint.py"
+    "coordination/reports/report-001.md"
   ],
   "tests": {
     "targeted": {

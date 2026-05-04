@@ -1,16 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:14:53+00:00
+**Закрыт:** 2026-05-04T06:18:02+00:00
 **Ветка:** main
-**Коммит:** aabd0b72d336 Introduce coordination channel for tz and reports [checkpoint]
+**Коммит:** fbf3c6fca483 Add bootstrap coordination report 001 [checkpoint]
 
 ## Что вошло
-- `coordination/README.md`
-- `coordination/reports/README.md`
-- `coordination/reports/report-000-contract.md`
-- `coordination/tz/README.md`
-- `coordination/tz/tz-000-contract.md`
-- `scripts/generate_checkpoint.py`
+- `coordination/reports/report-001.md`
 
 ## Тесты
 - targeted: нет данных
