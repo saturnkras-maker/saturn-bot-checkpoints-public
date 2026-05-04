@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:20:09+00:00
+**Закрыт:** 2026-05-04T12:24:46+00:00
 **Ветка:** main
-**Коммит:** 8e984fa36b6a Publish report-008 [checkpoint]
+**Коммит:** c0f48ca12fe3 Publish tz-009 pilot expansion [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-008.md`
+- `coordination/tz/tz-009-pilot-expansion-and-phase-closure.md`
 
 ## Тесты
 - targeted: нет данных

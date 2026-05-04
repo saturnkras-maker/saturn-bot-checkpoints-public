@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T12:20:09+00:00",
+  "closed_at": "2026-05-04T12:24:46+00:00",
   "branch": "main",
-  "commit_sha": "8e984fa36b6a",
-  "commit_message": "Publish report-008 [checkpoint]",
+  "commit_sha": "c0f48ca12fe3",
+  "commit_message": "Publish tz-009 pilot expansion [checkpoint]",
   "artifacts": [
-    "coordination/reports/report-008.md"
+    "coordination/tz/tz-009-pilot-expansion-and-phase-closure.md"
   ],
   "tests": {
     "targeted": {
