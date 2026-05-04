@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:54:30+00:00
+**Закрыт:** 2026-05-04T09:16:41+00:00
 **Ветка:** main
-**Коммит:** ca84137944f8 Publish report-005 [checkpoint]
+**Коммит:** dfd60216225d Publish tz-006 second-front audit [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-005.md`
+- `coordination/tz/tz-006-audit-second-front.md`
 
 ## Тесты
 - targeted: нет данных
