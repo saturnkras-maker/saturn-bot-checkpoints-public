@@ -1,10 +1,15 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T02:46:37+00:00",
-  "branch": "infra/github-checkpoints",
-  "commit_sha": "9fd05196c381",
-  "commit_message": "test: verify public checkpoint publish [checkpoint]",
-  "artifacts": [],
+  "closed_at": "2026-05-04T04:00:13+00:00",
+  "branch": "main",
+  "commit_sha": "1902eac9ce68",
+  "commit_message": "checkpoint: refresh public latest after infra merge [checkpoint]",
+  "artifacts": [
+    ".checkpoints/history/2026-05-04-checkpoint.md",
+    ".checkpoints/index.json",
+    ".checkpoints/latest.json",
+    ".checkpoints/latest.md"
+  ],
   "tests": {
     "targeted": {
       "passed": null,

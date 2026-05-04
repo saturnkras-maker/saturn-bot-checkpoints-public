@@ -29,6 +29,36 @@
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T10:57:13+07:00",
+      "branch": "private-main-checkpoint",
+      "commit_sha": "dced0c8c9681",
+      "commit_message": "infra: add GitHub checkpoint publisher",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T10:59:54+07:00",
+      "branch": "private-main-checkpoint",
+      "commit_sha": "0c2051a95839",
+      "commit_message": "chore(checkpoint): refresh public latest after infra merge [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T04:00:13+00:00",
+      "branch": "main",
+      "commit_sha": "1902eac9ce68",
+      "commit_message": "checkpoint: refresh public latest after infra merge [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
     }
   ]
 }

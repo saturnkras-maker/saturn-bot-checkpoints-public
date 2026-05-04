@@ -1,11 +1,14 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T02:46:37+00:00
-**Ветка:** infra/github-checkpoints
-**Коммит:** 9fd05196c381 test: verify public checkpoint publish [checkpoint]
+**Закрыт:** 2026-05-04T04:00:13+00:00
+**Ветка:** main
+**Коммит:** 1902eac9ce68 checkpoint: refresh public latest after infra merge [checkpoint]
 
 ## Что вошло
-- изменений в последнем diff не найдено
+- `.checkpoints/history/2026-05-04-checkpoint.md`
+- `.checkpoints/index.json`
+- `.checkpoints/latest.json`
+- `.checkpoints/latest.md`
 
 ## Тесты
 - targeted: нет данных
