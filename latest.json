@@ -1,9 +1,9 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T17:18:00+00:00",
-  "branch": "infra/report-009-001747",
-  "commit_sha": "5085efc5dcc8",
-  "commit_message": "coord(report): publish report-009 block3 gate [checkpoint]",
+  "closed_at": "2026-05-04T17:18:06+00:00",
+  "branch": "infra/report-008-push-191940",
+  "commit_sha": "6a1b2f9946ca",
+  "commit_message": "Publish report-009 block3 prod smoke gate [checkpoint]",
   "artifacts": [
     "coordination/reports/report-009.md"
   ],

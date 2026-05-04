@@ -1,8 +1,8 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:18:00+00:00
-**Ветка:** infra/report-009-001747
-**Коммит:** 5085efc5dcc8 coord(report): publish report-009 block3 gate [checkpoint]
+**Закрыт:** 2026-05-04T17:18:06+00:00
+**Ветка:** infra/report-008-push-191940
+**Коммит:** 6a1b2f9946ca Publish report-009 block3 prod smoke gate [checkpoint]
 
 ## Что вошло
 - `coordination/reports/report-009.md`
