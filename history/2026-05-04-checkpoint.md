@@ -1,10 +1,16 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T16:58:31+00:00
-**Ветка:** infra/tz-008-acceptance-235802
-**Коммит:** 9959a66d856f coord(report): accept audit-only risk for closed pilot [checkpoint]
+**Закрыт:** 2026-05-04T16:59:01+00:00
+**Ветка:** infra/report-008-push-191940
+**Коммит:** 2d17d9c4cc16 Accept audit-only risk for closed pilot [checkpoint]
 
 ## Что вошло
+- `.checkpoints/coordination/decisions.md`
+- `.checkpoints/coordination/reports/report-008.md`
+- `.checkpoints/history/2026-05-04-checkpoint.md`
+- `.checkpoints/index.json`
+- `.checkpoints/latest.json`
+- `.checkpoints/latest.md`
 - `artifacts/iter2-block2/workday_tracker_design.md`
 - `coordination/decisions.md`
 - `coordination/reports/report-008.md`
