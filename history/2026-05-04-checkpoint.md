@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T09:16:41+00:00
+**Закрыт:** 2026-05-04T09:21:03+00:00
 **Ветка:** main
-**Коммит:** dfd60216225d Publish tz-006 second-front audit [checkpoint]
+**Коммит:** 1eaae0b7f1d0 Second-front cross-artifact acceptance audit [checkpoint]
 
 ## Что вошло
-- `coordination/tz/tz-006-audit-second-front.md`
+- `coordination/audits/second-front-audit-2026-05-04.md`
 
 ## Тесты
 - targeted: нет данных

@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T09:16:41+00:00",
+  "closed_at": "2026-05-04T09:21:03+00:00",
   "branch": "main",
-  "commit_sha": "dfd60216225d",
-  "commit_message": "Publish tz-006 second-front audit [checkpoint]",
+  "commit_sha": "1eaae0b7f1d0",
+  "commit_message": "Second-front cross-artifact acceptance audit [checkpoint]",
   "artifacts": [
-    "coordination/tz/tz-006-audit-second-front.md"
+    "coordination/audits/second-front-audit-2026-05-04.md"
   ],
   "tests": {
     "targeted": {
