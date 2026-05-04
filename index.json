@@ -199,6 +199,16 @@
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-04T07:26:37+00:00",
+      "branch": "main",
+      "commit_sha": "5fcdcbdbe041",
+      "commit_message": "Publish tz-004 invariant refine v2 [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
     }
   ]
 }

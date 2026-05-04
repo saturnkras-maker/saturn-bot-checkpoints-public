@@ -1,13 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:21:37+00:00
+**Закрыт:** 2026-05-04T07:26:37+00:00
 **Ветка:** main
-**Коммит:** c5d526c19eaf Refine checkpoint-contour grep invariant and cleanup tz-002 wording [checkpoint]
+**Коммит:** 5fcdcbdbe041 Publish tz-004 invariant refine v2 [checkpoint]
 
 ## Что вошло
-- `coordination/README.md`
-- `coordination/reports/report-002.md`
-- `coordination/tz/tz-002-anonymization-pairs-batch-1.md`
+- `coordination/tz/tz-004-invariant-refine-v2.md`
 
 ## Тесты
 - targeted: нет данных
