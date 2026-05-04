@@ -1,21 +1,21 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T04:50:11+00:00
+**Закрыт:** 2026-05-04T05:02:17+00:00
 **Ветка:** main
-**Коммит:** 5f78ff6e2fbb feat(content): add evening prompt layer [checkpoint]
+**Коммит:** 5df82539b5f4 feat(content): add friday prompt layer [checkpoint]
 
 ## Что вошло
-- `content_samples/evening/green_01.md`
-- `content_samples/evening/green_02.md`
-- `content_samples/evening/green_03.md`
-- `content_samples/evening/red_09.md`
-- `content_samples/evening/red_10.md`
-- `content_samples/evening/white_04.md`
-- `content_samples/evening/white_05.md`
-- `content_samples/evening/white_06.md`
-- `content_samples/evening/yellow_07.md`
-- `content_samples/evening/yellow_08.md`
-- `prompts/evening.md`
+- `content_samples/friday/green_01.md`
+- `content_samples/friday/green_02.md`
+- `content_samples/friday/green_03.md`
+- `content_samples/friday/red_09.md`
+- `content_samples/friday/red_10.md`
+- `content_samples/friday/white_04.md`
+- `content_samples/friday/white_05.md`
+- `content_samples/friday/white_06.md`
+- `content_samples/friday/yellow_07.md`
+- `content_samples/friday/yellow_08.md`
+- `prompts/friday.md`
 - `tests/anonymization/length_report.txt`
 
 ## Тесты
