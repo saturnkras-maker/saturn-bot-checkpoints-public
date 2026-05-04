@@ -382,10 +382,10 @@
     },
     {
       "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:00:24+00:00",
-      "branch": "infra/report-008-push-191940",
-      "commit_sha": "ff7443311e5e",
-      "commit_message": "Publish tz-009 block3 schedulers privacy sender [checkpoint]",
+      "closed_at": "2026-05-04T17:17:26+00:00",
+      "branch": "feat/tz-009-block3-000039",
+      "commit_sha": "07e0cc5928ab",
+      "commit_message": "feat(pilot): add block3 scheduler privacy sender [checkpoint]",
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
