@@ -1,0 +1,14 @@
+{
+  "checkpoints": [
+    {
+      "package_name": "synthetic-infra-check",
+      "closed_at": "2026-05-04T09:42:14+07:00",
+      "branch": "infra/github-checkpoints",
+      "commit_sha": "eb4f82edeb90",
+      "commit_message": "feat(p3): add n3 voice boundary package",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-04-synthetic-infra-check.md"
+    }
+  ]
+}

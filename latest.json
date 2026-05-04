@@ -1,0 +1,53 @@
+{
+  "package_name": "synthetic-infra-check",
+  "closed_at": "2026-05-04T09:42:26+07:00",
+  "branch": "infra/github-checkpoints",
+  "commit_sha": "eb4f82edeb90",
+  "commit_message": "feat(p3): add n3 voice boundary package",
+  "artifacts": [
+    "artifacts/task-p3-m1-discovery-scaffold/final-report.md",
+    "migrations/versions/0023_voice_n3_task_proposals.py",
+    "src/absences/__init__.py",
+    "src/absences/manager.py",
+    "src/db/p2_models.py",
+    "src/departments/__init__.py",
+    "src/departments/resolver.py",
+    "src/holidays/__init__.py",
+    "src/holidays/calendar.py",
+    "src/onboarding/__init__.py",
+    "src/onboarding/tracker.py",
+    "src/voice/anti_empty_guard.py",
+    "src/voice/dialog_engine.py",
+    "src/voice/limits_guard.py",
+    "src/voice/receiver.py",
+    "src/voice/structurer.py",
+    "src/voice/task_creator.py",
+    "src/voice/transcriber.py",
+    "tests/services/test_p3_n3_boundaries.py",
+    "tests/voice/test_n3_voice_pipeline.py"
+  ],
+  "tests": {
+    "targeted": {
+      "passed": null,
+      "failed": null,
+      "skipped": null,
+      "total": null,
+      "source": "/Users/vladimirknaz/.openclaw/workspace/worktrees/bitrix-bot-mvp-github-checkpoints/.pytest_last_run.json"
+    },
+    "regression": {
+      "passed": null,
+      "failed": null,
+      "source": "not provided"
+    },
+    "full": {
+      "passed": null,
+      "failed": null,
+      "source": "not provided"
+    }
+  },
+  "blockers": [
+    "нужен GitHub-логин Владимира для collaborator"
+  ],
+  "next_step": "проверить публикацию latest.md/latest.json в публичном репозитории",
+  "final_report": "artifacts/task-p3-m1-discovery-scaffold/final-report.md"
+}

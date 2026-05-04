@@ -1,2 +1,10 @@
-# saturn-bot-checkpoints-public
-Public checkpoint snapshots for Saturn Mudriy Ded bot
+# Checkpoints
+
+Эта папка хранит автоматические срезы пакетов для Владимира и внешнего ассистента Perplexity.
+
+- `latest.md` — последний человекочитаемый срез.
+- `latest.json` — последний машиночитаемый срез.
+- `history/` — архив срезов.
+- `index.json` — индекс всех опубликованных срезов.
+
+Обновление выполняет GitHub Action `checkpoint-publisher` при push-коммите с тегом `[checkpoint]` в сообщении.
