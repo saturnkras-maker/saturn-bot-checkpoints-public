@@ -1,22 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:47:15+00:00
+**Закрыт:** 2026-05-04T06:48:16+00:00
 **Ветка:** main
-**Коммит:** d7eb7c879f10 Add anonymization pairs batch 1 [checkpoint]
+**Коммит:** ebb749fa6092 Add report 002 for anonymization batch 1 [checkpoint]
 
 ## Что вошло
-- `tests/anonymization/length_report.txt`
-- `tests/anonymization/pairs/README.md`
-- `tests/anonymization/pairs/batch-1/pair-01-anonymized.md`
-- `tests/anonymization/pairs/batch-1/pair-01-raw.md`
-- `tests/anonymization/pairs/batch-1/pair-02-anonymized.md`
-- `tests/anonymization/pairs/batch-1/pair-02-raw.md`
-- `tests/anonymization/pairs/batch-1/pair-03-anonymized.md`
-- `tests/anonymization/pairs/batch-1/pair-03-raw.md`
-- `tests/anonymization/pairs/batch-1/pair-04-anonymized.md`
-- `tests/anonymization/pairs/batch-1/pair-04-raw.md`
-- `tests/anonymization/pairs/batch-1/pair-05-anonymized.md`
-- `tests/anonymization/pairs/batch-1/pair-05-raw.md`
+- `coordination/reports/report-002.md`
 
 ## Тесты
 - targeted: нет данных
