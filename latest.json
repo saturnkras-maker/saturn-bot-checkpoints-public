@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T06:18:02+00:00",
+  "closed_at": "2026-05-04T06:45:45+00:00",
   "branch": "main",
-  "commit_sha": "fbf3c6fca483",
-  "commit_message": "Add bootstrap coordination report 001 [checkpoint]",
+  "commit_sha": "0123b175df2d",
+  "commit_message": "Add tz-002 anonymization pairs batch 1 [checkpoint]",
   "artifacts": [
-    "coordination/reports/report-001.md"
+    "coordination/tz/tz-002-anonymization-pairs-batch-1.md"
   ],
   "tests": {
     "targeted": {

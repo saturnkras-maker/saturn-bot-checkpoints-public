@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:18:02+00:00
+**Закрыт:** 2026-05-04T06:45:45+00:00
 **Ветка:** main
-**Коммит:** fbf3c6fca483 Add bootstrap coordination report 001 [checkpoint]
+**Коммит:** 0123b175df2d Add tz-002 anonymization pairs batch 1 [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-001.md`
+- `coordination/tz/tz-002-anonymization-pairs-batch-1.md`
 
 ## Тесты
 - targeted: нет данных
