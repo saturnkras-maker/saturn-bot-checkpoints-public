@@ -362,50 +362,10 @@
     },
     {
       "package_name": "checkpoint",
-      "closed_at": "2026-05-04T12:20:09+00:00",
-      "branch": "main",
-      "commit_sha": "8e984fa36b6a",
-      "commit_message": "Publish report-008 [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T12:24:46+00:00",
-      "branch": "main",
-      "commit_sha": "c0f48ca12fe3",
-      "commit_message": "Publish tz-009 pilot expansion [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T12:28:30+00:00",
-      "branch": "main",
-      "commit_sha": "6bbf1cdaff4e",
-      "commit_message": "Expand director pilot samples [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T12:30:13+00:00",
-      "branch": "main",
-      "commit_sha": "f18c26b0055d",
-      "commit_message": "Second front coordination hardening audit [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T12:33:33+00:00",
-      "branch": "main",
-      "commit_sha": "735af12db758",
-      "commit_message": "Publish report-009 [checkpoint]",
+      "closed_at": "2026-05-04T16:58:31+00:00",
+      "branch": "infra/tz-008-acceptance-235802",
+      "commit_sha": "9959a66d856f",
+      "commit_message": "coord(report): accept audit-only risk for closed pilot [checkpoint]",
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
