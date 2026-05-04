@@ -1,11 +1,21 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:50:08+00:00
+**Закрыт:** 2026-05-04T07:53:21+00:00
 **Ветка:** main
-**Коммит:** d044a4d73bfa Publish tz-005 anonymization pairs batch 2 [checkpoint]
+**Коммит:** 53fcf94fadc1 Add anonymization pairs batch 2 (5 pairs) [checkpoint]
 
 ## Что вошло
-- `coordination/tz/tz-005-anonymization-pairs-batch-2.md`
+- `tests/anonymization/length_report.txt`
+- `tests/anonymization/pairs/batch-2/pair-06-anonymized.md`
+- `tests/anonymization/pairs/batch-2/pair-06-raw.md`
+- `tests/anonymization/pairs/batch-2/pair-07-anonymized.md`
+- `tests/anonymization/pairs/batch-2/pair-07-raw.md`
+- `tests/anonymization/pairs/batch-2/pair-08-anonymized.md`
+- `tests/anonymization/pairs/batch-2/pair-08-raw.md`
+- `tests/anonymization/pairs/batch-2/pair-09-anonymized.md`
+- `tests/anonymization/pairs/batch-2/pair-09-raw.md`
+- `tests/anonymization/pairs/batch-2/pair-10-anonymized.md`
+- `tests/anonymization/pairs/batch-2/pair-10-raw.md`
 
 ## Тесты
 - targeted: нет данных
