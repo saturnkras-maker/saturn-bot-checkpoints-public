@@ -1,8 +1,8 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:00:26+00:00
-**Ветка:** infra/tz-009-push-235919
-**Коммит:** 3fda4d3164a6 coord(tz): publish tz-009 block3 [checkpoint]
+**Закрыт:** 2026-05-04T17:00:24+00:00
+**Ветка:** infra/report-008-push-191940
+**Коммит:** ff7443311e5e Publish tz-009 block3 schedulers privacy sender [checkpoint]
 
 ## Что вошло
 - `coordination/tz/tz-009-iter2-block3-schedulers-privacy-sender.md`

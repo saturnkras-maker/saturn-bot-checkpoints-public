@@ -1,9 +1,9 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T17:00:26+00:00",
-  "branch": "infra/tz-009-push-235919",
-  "commit_sha": "3fda4d3164a6",
-  "commit_message": "coord(tz): publish tz-009 block3 [checkpoint]",
+  "closed_at": "2026-05-04T17:00:24+00:00",
+  "branch": "infra/report-008-push-191940",
+  "commit_sha": "ff7443311e5e",
+  "commit_message": "Publish tz-009 block3 schedulers privacy sender [checkpoint]",
   "artifacts": [
     "coordination/tz/tz-009-iter2-block3-schedulers-privacy-sender.md"
   ],
