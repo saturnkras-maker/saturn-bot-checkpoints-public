@@ -412,10 +412,10 @@
     },
     {
       "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:44:11+00:00",
-      "branch": "feat/iter3-workday-sessions-003020",
-      "commit_sha": "514657582d8e",
-      "commit_message": "feat(workday): add timeman-backed workday sessions [checkpoint]",
+      "closed_at": "2026-05-04T18:00:24+00:00",
+      "branch": "infra/report-008-push-191940",
+      "commit_sha": "db55979518d7",
+      "commit_message": "mitigate phantom delivery hold gates [checkpoint]",
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"

@@ -1,19 +1,19 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:44:11+00:00
-**Ветка:** feat/iter3-workday-sessions-003020
-**Коммит:** 514657582d8e feat(workday): add timeman-backed workday sessions [checkpoint]
+**Закрыт:** 2026-05-04T18:00:24+00:00
+**Ветка:** infra/report-008-push-191940
+**Коммит:** db55979518d7 mitigate phantom delivery hold gates [checkpoint]
 
 ## Что вошло
-- `artifacts/iter3-workday-sessions/timeman_scope_smoke.md`
-- `coordination/reports/report-010.md`
-- `coordination/tz/tz-010-iter3-workday-sessions-timeman-primary.md`
-- `migrations/versions/0025_workday_sessions.py`
-- `src/db/p2_models.py`
-- `src/services/workday_sessions_sync.py`
-- `src/services/workday_tracker.py`
-- `tests/services/test_workday_sessions_sync.py`
-- `tests/services/test_workday_tracker.py`
+- `AGENTS.md`
+- `artifacts/phantom-delivery-diag.md`
+- `config/runtime.env.example`
+- `docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md`
+- `src/config.py`
+- `src/services/daily_rhythm/scheduler.py`
+- `src/services/wisdom/scheduler_light.py`
+- `tests/services/daily_rhythm/test_scheduler.py`
+- `tests/services/wisdom/test_morning_greeting.py`
 
 ## Тесты
 - targeted: нет данных
