@@ -1,11 +1,19 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T17:18:06+00:00
-**Ветка:** infra/report-008-push-191940
-**Коммит:** 6a1b2f9946ca Publish report-009 block3 prod smoke gate [checkpoint]
+**Закрыт:** 2026-05-04T17:44:11+00:00
+**Ветка:** feat/iter3-workday-sessions-003020
+**Коммит:** 514657582d8e feat(workday): add timeman-backed workday sessions [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-009.md`
+- `artifacts/iter3-workday-sessions/timeman_scope_smoke.md`
+- `coordination/reports/report-010.md`
+- `coordination/tz/tz-010-iter3-workday-sessions-timeman-primary.md`
+- `migrations/versions/0025_workday_sessions.py`
+- `src/db/p2_models.py`
+- `src/services/workday_sessions_sync.py`
+- `src/services/workday_tracker.py`
+- `tests/services/test_workday_sessions_sync.py`
+- `tests/services/test_workday_tracker.py`
 
 ## Тесты
 - targeted: нет данных
