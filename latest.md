@@ -1,21 +1,21 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T05:02:17+00:00
+**Закрыт:** 2026-05-04T05:20:00+00:00
 **Ветка:** main
-**Коммит:** 5df82539b5f4 feat(content): add friday prompt layer [checkpoint]
+**Коммит:** c189116ece92 Add monthly content prompt layer [checkpoint]
 
 ## Что вошло
-- `content_samples/friday/green_01.md`
-- `content_samples/friday/green_02.md`
-- `content_samples/friday/green_03.md`
-- `content_samples/friday/red_09.md`
-- `content_samples/friday/red_10.md`
-- `content_samples/friday/white_04.md`
-- `content_samples/friday/white_05.md`
-- `content_samples/friday/white_06.md`
-- `content_samples/friday/yellow_07.md`
-- `content_samples/friday/yellow_08.md`
-- `prompts/friday.md`
+- `content_samples/monthly/green_01.md`
+- `content_samples/monthly/green_02.md`
+- `content_samples/monthly/green_03.md`
+- `content_samples/monthly/red_09.md`
+- `content_samples/monthly/red_10.md`
+- `content_samples/monthly/white_04.md`
+- `content_samples/monthly/white_05.md`
+- `content_samples/monthly/white_06.md`
+- `content_samples/monthly/yellow_07.md`
+- `content_samples/monthly/yellow_08.md`
+- `prompts/monthly.md`
 - `tests/anonymization/length_report.txt`
 
 ## Тесты
