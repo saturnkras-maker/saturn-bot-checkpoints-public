@@ -1,11 +1,16 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T12:24:46+00:00
+**Закрыт:** 2026-05-04T12:28:30+00:00
 **Ветка:** main
-**Коммит:** c0f48ca12fe3 Publish tz-009 pilot expansion [checkpoint]
+**Коммит:** 6bbf1cdaff4e Expand director pilot samples [checkpoint]
 
 ## Что вошло
-- `coordination/tz/tz-009-pilot-expansion-and-phase-closure.md`
+- `content_samples/pilot/evening_director_low_activity.md`
+- `content_samples/pilot/evening_director_push_overuse.md`
+- `content_samples/pilot/friday_director_stagnation.md`
+- `content_samples/pilot/morning_director_absence_return.md`
+- `content_samples/pilot/morning_director_overload.md`
+- `tests/anonymization/length_report.txt`
 
 ## Тесты
 - targeted: нет данных
