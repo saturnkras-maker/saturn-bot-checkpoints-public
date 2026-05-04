@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T07:29:06+00:00
+**Закрыт:** 2026-05-04T07:36:09+00:00
 **Ветка:** main
-**Коммит:** 9c0d824e8eb9 Backfill report-003 after tz-003 [checkpoint]
+**Коммит:** 454a011e3425 Publish report-004 [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-003.md`
+- `coordination/reports/report-004.md`
 
 ## Тесты
 - targeted: нет данных

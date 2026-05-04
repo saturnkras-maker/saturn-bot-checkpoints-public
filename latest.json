@@ -1,11 +1,11 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T07:29:06+00:00",
+  "closed_at": "2026-05-04T07:36:09+00:00",
   "branch": "main",
-  "commit_sha": "9c0d824e8eb9",
-  "commit_message": "Backfill report-003 after tz-003 [checkpoint]",
+  "commit_sha": "454a011e3425",
+  "commit_message": "Publish report-004 [checkpoint]",
   "artifacts": [
-    "coordination/reports/report-003.md"
+    "coordination/reports/report-004.md"
   ],
   "tests": {
     "targeted": {
