@@ -1,19 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T16:59:01+00:00
-**Ветка:** infra/report-008-push-191940
-**Коммит:** 2d17d9c4cc16 Accept audit-only risk for closed pilot [checkpoint]
+**Закрыт:** 2026-05-04T17:00:26+00:00
+**Ветка:** infra/tz-009-push-235919
+**Коммит:** 3fda4d3164a6 coord(tz): publish tz-009 block3 [checkpoint]
 
 ## Что вошло
-- `.checkpoints/coordination/decisions.md`
-- `.checkpoints/coordination/reports/report-008.md`
-- `.checkpoints/history/2026-05-04-checkpoint.md`
-- `.checkpoints/index.json`
-- `.checkpoints/latest.json`
-- `.checkpoints/latest.md`
-- `artifacts/iter2-block2/workday_tracker_design.md`
-- `coordination/decisions.md`
-- `coordination/reports/report-008.md`
+- `coordination/tz/tz-009-iter2-block3-schedulers-privacy-sender.md`
 
 ## Тесты
 - targeted: нет данных
