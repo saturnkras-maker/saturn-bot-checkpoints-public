@@ -1,11 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T06:48:16+00:00
+**Закрыт:** 2026-05-04T07:20:08+00:00
 **Ветка:** main
-**Коммит:** ebb749fa6092 Add report 002 for anonymization batch 1 [checkpoint]
+**Коммит:** a6ea2afa5fc6 Add tz-003 cleanup and invariant refine [checkpoint]
 
 ## Что вошло
-- `coordination/reports/report-002.md`
+- `coordination/tz/tz-003-cleanup-and-invariant-refine.md`
 
 ## Тесты
 - targeted: нет данных
