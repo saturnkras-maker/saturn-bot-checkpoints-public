@@ -1,19 +1,20 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T18:00:24+00:00
-**Ветка:** infra/report-008-push-191940
-**Коммит:** db55979518d7 mitigate phantom delivery hold gates [checkpoint]
+**Закрыт:** 2026-05-04T18:05:38+00:00
+**Ветка:** feat/iter3-workday-sessions-003020
+**Коммит:** a0a05d109ef8 harden workday session presence model [checkpoint]
 
 ## Что вошло
-- `AGENTS.md`
-- `artifacts/phantom-delivery-diag.md`
-- `config/runtime.env.example`
-- `docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md`
-- `src/config.py`
-- `src/services/daily_rhythm/scheduler.py`
-- `src/services/wisdom/scheduler_light.py`
-- `tests/services/daily_rhythm/test_scheduler.py`
-- `tests/services/wisdom/test_morning_greeting.py`
+- `artifacts/iter3-workday-sessions/alembic_0025_preview.sql`
+- `coordination/reports/report-010.md`
+- `coordination/tz/tz-010-iter3-workday-sessions-timeman-primary.md`
+- `migrations/versions/0025_workday_sessions.py`
+- `src/db/p2_models.py`
+- `src/services/daily_rhythm/sources.py`
+- `src/services/workday_sessions_sync.py`
+- `src/services/workday_tracker.py`
+- `tests/services/daily_rhythm/test_sources.py`
+- `tests/services/test_workday_sessions_sync.py`
 
 ## Тесты
 - targeted: нет данных
