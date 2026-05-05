@@ -1,20 +1,16 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-04T18:05:38+00:00",
-  "branch": "feat/iter3-workday-sessions-003020",
-  "commit_sha": "a0a05d109ef8",
-  "commit_message": "harden workday session presence model [checkpoint]",
+  "closed_at": "2026-05-05T02:48:37+00:00",
+  "branch": "infra/report-008-needs-human-204554",
+  "commit_sha": "af2f1df24180",
+  "commit_message": "coord(report): resolve adr collision and pause block3 [checkpoint]",
   "artifacts": [
-    "artifacts/iter3-workday-sessions/alembic_0025_preview.sql",
-    "coordination/reports/report-010.md",
-    "coordination/tz/tz-010-iter3-workday-sessions-timeman-primary.md",
-    "migrations/versions/0025_workday_sessions.py",
-    "src/db/p2_models.py",
-    "src/services/daily_rhythm/sources.py",
-    "src/services/workday_sessions_sync.py",
-    "src/services/workday_tracker.py",
-    "tests/services/daily_rhythm/test_sources.py",
-    "tests/services/test_workday_sessions_sync.py"
+    "artifacts/iter2-block2/workday_tracker_design.md",
+    "coordination/reports/report-008.md",
+    "docs/adr/ADR-040-audit-only-workday-tracker-closed-pilot.md",
+    "docs/adr/README.md",
+    "docs/backlog.md",
+    "docs/backlog/iter-2.md"
   ],
   "tests": {
     "targeted": {

@@ -1,20 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-04T18:05:38+00:00
-**Ветка:** feat/iter3-workday-sessions-003020
-**Коммит:** a0a05d109ef8 harden workday session presence model [checkpoint]
+**Закрыт:** 2026-05-04T12:18:18+00:00
+**Ветка:** main
+**Коммит:** 1f597b0ddf2e Document coordination PR invariants [checkpoint]
 
 ## Что вошло
-- `artifacts/iter3-workday-sessions/alembic_0025_preview.sql`
-- `coordination/reports/report-010.md`
-- `coordination/tz/tz-010-iter3-workday-sessions-timeman-primary.md`
-- `migrations/versions/0025_workday_sessions.py`
-- `src/db/p2_models.py`
-- `src/services/daily_rhythm/sources.py`
-- `src/services/workday_sessions_sync.py`
-- `src/services/workday_tracker.py`
-- `tests/services/daily_rhythm/test_sources.py`
-- `tests/services/test_workday_sessions_sync.py`
+- `coordination/README.md`
 
 ## Тесты
 - targeted: нет данных

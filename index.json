@@ -362,73 +362,13 @@
     },
     {
       "package_name": "checkpoint",
-      "closed_at": "2026-05-04T16:58:31+00:00",
-      "branch": "infra/tz-008-acceptance-235802",
-      "commit_sha": "9959a66d856f",
-      "commit_message": "coord(report): accept audit-only risk for closed pilot [checkpoint]",
+      "closed_at": "2026-05-05T02:48:37+00:00",
+      "branch": "infra/report-008-needs-human-204554",
+      "commit_sha": "af2f1df24180",
+      "commit_message": "coord(report): resolve adr collision and pause block3 [checkpoint]",
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T16:59:01+00:00",
-      "branch": "infra/report-008-push-191940",
-      "commit_sha": "2d17d9c4cc16",
-      "commit_message": "Accept audit-only risk for closed pilot [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:00:24+00:00",
-      "branch": "infra/report-008-push-191940",
-      "commit_sha": "ff7443311e5e",
-      "commit_message": "Publish tz-009 block3 schedulers privacy sender [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:17:30+00:00",
-      "branch": "infra/report-008-push-191940",
-      "commit_sha": "21702f3b06d3",
-      "commit_message": "Implement tz-009 block3 scheduler privacy sender [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:18:06+00:00",
-      "branch": "infra/report-008-push-191940",
-      "commit_sha": "6a1b2f9946ca",
-      "commit_message": "Publish report-009 block3 prod smoke gate [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T17:44:11+00:00",
-      "branch": "feat/iter3-workday-sessions-003020",
-      "commit_sha": "514657582d8e",
-      "commit_message": "feat(workday): add timeman-backed workday sessions [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
-    },
-    {
-      "package_name": "checkpoint",
-      "closed_at": "2026-05-04T18:05:38+00:00",
-      "branch": "feat/iter3-workday-sessions-003020",
-      "commit_sha": "a0a05d109ef8",
-      "commit_message": "harden workday session presence model [checkpoint]",
-      "latest_md": ".checkpoints/latest.md",
-      "latest_json": ".checkpoints/latest.json",
-      "history_md": ".checkpoints/history/2026-05-04-checkpoint.md"
+      "history_md": ".checkpoints/history/2026-05-05-checkpoint.md"
     }
   ]
 }
