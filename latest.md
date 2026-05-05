@@ -1,32 +1,14 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-05T03:46:35+00:00
+**Закрыт:** 2026-05-05T03:47:45+00:00
 **Ветка:** feat/iter3-workday-sessions-003020
-**Коммит:** e920ad3b292c merge(main): resolve iter3 timeman conflicts [checkpoint]
+**Коммит:** 60a4e2e47467 merge(main): refresh iter3 checkpoints [checkpoint]
 
 ## Что вошло
-- `.checkpoints/coordination/audits/second-front-coordination-hardening-2026-05-04.md`
-- `.checkpoints/coordination/reports/report-008.md`
-- `.checkpoints/coordination/reports/report-009.md`
-- `.checkpoints/coordination/tz/tz-009-pilot-expansion-and-phase-closure.md`
-- `.checkpoints/history/2026-05-04-checkpoint.md`
 - `.checkpoints/history/2026-05-05-checkpoint.md`
 - `.checkpoints/index.json`
 - `.checkpoints/latest.json`
 - `.checkpoints/latest.md`
-- `AGENTS.md`
-- `content_samples/pilot/evening_director_low_activity.md`
-- `content_samples/pilot/evening_director_push_overuse.md`
-- `content_samples/pilot/friday_director_stagnation.md`
-- `content_samples/pilot/morning_director_absence_return.md`
-- `content_samples/pilot/morning_director_overload.md`
-- `coordination/audits/second-front-coordination-hardening-2026-05-04.md`
-- `coordination/reports/report-008.md`
-- `coordination/reports/report-009.md`
-- `coordination/tz/tz-009-pilot-expansion-and-phase-closure.md`
-- `docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md`
-- `docs/adr/README.md`
-- `tests/anonymization/length_report.txt`
 
 ## Тесты
 - targeted: нет данных
