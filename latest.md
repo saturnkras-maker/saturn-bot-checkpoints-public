@@ -1,16 +1,13 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-05T02:48:37+00:00
-**Ветка:** infra/report-008-needs-human-204554
-**Коммит:** af2f1df24180 coord(report): resolve adr collision and pause block3 [checkpoint]
+**Закрыт:** 2026-05-05T03:30:30+00:00
+**Ветка:** docs/human-only-visual-ack-guard-mirror
+**Коммит:** d55de34c647e docs(agents,adr-039): mirror human-only visual ack enforcement from bitrix-bot-mvp#77 [checkpoint]
 
 ## Что вошло
-- `artifacts/iter2-block2/workday_tracker_design.md`
-- `coordination/reports/report-008.md`
-- `docs/adr/ADR-040-audit-only-workday-tracker-closed-pilot.md`
+- `AGENTS.md`
+- `docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md`
 - `docs/adr/README.md`
-- `docs/backlog.md`
-- `docs/backlog/iter-2.md`
 
 ## Тесты
 - targeted: нет данных
