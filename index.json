@@ -449,6 +449,16 @@
       "latest_md": ".checkpoints/latest.md",
       "latest_json": ".checkpoints/latest.json",
       "history_md": ".checkpoints/history/2026-05-05-checkpoint.md"
+    },
+    {
+      "package_name": "checkpoint",
+      "closed_at": "2026-05-05T08:18:54+00:00",
+      "branch": "feat/bot-identity-hardening",
+      "commit_sha": "f61044152c63",
+      "commit_message": "feat(bot-identity): startup validation and runbooks [checkpoint]",
+      "latest_md": ".checkpoints/latest.md",
+      "latest_json": ".checkpoints/latest.json",
+      "history_md": ".checkpoints/history/2026-05-05-checkpoint.md"
     }
   ]
 }
