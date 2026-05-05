@@ -1,10 +1,14 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-05T08:18:54+00:00
-**Ветка:** feat/bot-identity-hardening
-**Коммит:** f61044152c63 feat(bot-identity): startup validation and runbooks [checkpoint]
+**Закрыт:** 2026-05-05T08:20:17+00:00
+**Ветка:** main
+**Коммит:** dae337d083fb feat(bot-identity): startup validation and runbooks [checkpoint]
 
 ## Что вошло
+- `.checkpoints/history/2026-05-05-checkpoint.md`
+- `.checkpoints/index.json`
+- `.checkpoints/latest.json`
+- `.checkpoints/latest.md`
 - `config/runtime.env.example`
 - `deploy/.env.example`
 - `docs/runbooks/bot-identity.md`
