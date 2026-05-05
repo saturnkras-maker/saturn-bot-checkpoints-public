@@ -1,10 +1,14 @@
 {
   "package_name": "checkpoint",
-  "closed_at": "2026-05-05T03:30:30+00:00",
-  "branch": "docs/human-only-visual-ack-guard-mirror",
-  "commit_sha": "d55de34c647e",
+  "closed_at": "2026-05-05T03:30:44+00:00",
+  "branch": "main",
+  "commit_sha": "aa4116beea14",
   "commit_message": "docs(agents,adr-039): mirror human-only visual ack enforcement from bitrix-bot-mvp#77 [checkpoint]",
   "artifacts": [
+    ".checkpoints/history/2026-05-05-checkpoint.md",
+    ".checkpoints/index.json",
+    ".checkpoints/latest.json",
+    ".checkpoints/latest.md",
     "AGENTS.md",
     "docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md",
     "docs/adr/README.md"

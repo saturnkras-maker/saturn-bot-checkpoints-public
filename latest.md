@@ -1,10 +1,14 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-05T03:30:30+00:00
-**Ветка:** docs/human-only-visual-ack-guard-mirror
-**Коммит:** d55de34c647e docs(agents,adr-039): mirror human-only visual ack enforcement from bitrix-bot-mvp#77 [checkpoint]
+**Закрыт:** 2026-05-05T03:30:44+00:00
+**Ветка:** main
+**Коммит:** aa4116beea14 docs(agents,adr-039): mirror human-only visual ack enforcement from bitrix-bot-mvp#77 [checkpoint]
 
 ## Что вошло
+- `.checkpoints/history/2026-05-05-checkpoint.md`
+- `.checkpoints/index.json`
+- `.checkpoints/latest.json`
+- `.checkpoints/latest.md`
 - `AGENTS.md`
 - `docs/adr/ADR-039-phantom-delivery-and-go-signal-gates.md`
 - `docs/adr/README.md`
