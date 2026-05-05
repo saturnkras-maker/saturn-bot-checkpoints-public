@@ -28,6 +28,25 @@
 - В отчётах фиксируются SHA, PR, gates, инварианты и следующий шаг.
 - Служебные секреты, ключи и приватные идентификаторы в `coordination/` не добавляются.
 
+
+## Канонический URL для Perplexity agent fetch
+
+Public checkpoint mirror доступен не только через GitHub raw/api, но и через GitHub Pages.
+
+Canonical agent-readable endpoint для Perplexity Spaces / Agent Mode:
+
+- `https://saturnkras-maker.github.io/saturn-bot-checkpoints-public/latest.md`
+- `https://saturnkras-maker.github.io/saturn-bot-checkpoints-public/latest.json`
+- `https://saturnkras-maker.github.io/saturn-bot-checkpoints-public/index.json`
+
+Raw GitHub endpoints (`raw.githubusercontent.com`, `github.com/.../raw`, `api.github.com`) считаются fallback, потому что anonymous `fetch_url` в Perplexity может блокироваться на GitHub/raw/api/CDN даже при публичном репозитории.
+
+Handshake line для координатора после проверки:
+
+```text
+AGENT-FETCH-READY: url=https://saturnkras-maker.github.io/saturn-bot-checkpoints-public/latest.md verified_at=<ISO> latest.json.commit_sha=<sha>
+```
+
 ## Invariants
 
 ### Checkpoint-contour grep invariant

@@ -1,26 +1,11 @@
 # Пакет: checkpoint
 
-**Закрыт:** 2026-05-05T08:20:17+00:00
+**Закрыт:** 2026-05-05T10:04:31+00:00
 **Ветка:** main
-**Коммит:** dae337d083fb feat(bot-identity): startup validation and runbooks [checkpoint]
+**Коммит:** 70490169bb76 docs(coordination): add GitHub Pages agent fetch endpoint [checkpoint]
 
 ## Что вошло
-- `.checkpoints/history/2026-05-05-checkpoint.md`
-- `.checkpoints/index.json`
-- `.checkpoints/latest.json`
-- `.checkpoints/latest.md`
-- `config/runtime.env.example`
-- `deploy/.env.example`
-- `docs/runbooks/bot-identity.md`
-- `docs/runbooks/live-readiness-checklist.md`
-- `scripts/dry_run_digest.py`
-- `scripts/smoke_live.py`
-- `src/app.py`
-- `src/config.py`
-- `src/scheduler/__init__.py`
-- `src/services/bitrix_bot_identity.py`
-- `src/services/daily_rhythm/scheduler.py`
-- `tests/services/test_bot_identity_validator.py`
+- `coordination/README.md`
 
 ## Тесты
 - targeted: нет данных
